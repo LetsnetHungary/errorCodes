@@ -1,0 +1,20 @@
+{
+    "PHP": {
+        "s0": {
+            "name": "General Errors",
+            "e0": {
+                "name": "Error 0 section vagy valami más normális név",
+                "c0": "PHP-section0error0code0 errorkód",
+                "c1": "PHP-section0error0code1 errorkód"
+            }
+        },
+        "s1": {
+            "name": "API ERRORS",
+            "e0": {
+                "name": "Error 1 section vagy valami más normális név",
+                "c0": "PHP-section1error0code0 errorkód",
+                "c1": "PHP-section1error0code1 errorkód"
+            }
+        }
+    }
+}
